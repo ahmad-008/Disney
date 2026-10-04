@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "tailwindcss-no-scrollbar";
 
 body{
     @apply bg-[#141521];
