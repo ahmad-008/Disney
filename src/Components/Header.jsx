@@ -1,5 +1,5 @@
 import { useState } from 'react';
-import logo from '../assets/Images/logo.webp'
+import logo from '../assets/Images/logo.png'
 import profileicon from '../assets/Images/profileicon.png'
 import {
     HiHome,
